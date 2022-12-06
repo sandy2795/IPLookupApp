@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>IPAddressInfo</name>
+        <order/>
+        <roles>x_620923_iplookup.ipaddressinfo_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-06 13:48:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>45847ce2976311106cc77cb0f053af1b</sys_id>
+        <sys_name>IPAddressInfo</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IPLookup" source="x_620923_iplookup">4401f822972311106cc77cb0f053af1a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">4401f822972311106cc77cb0f053af1a</sys_scope>
+        <sys_update_name>sys_ui_application_45847ce2976311106cc77cb0f053af1b</sys_update_name>
+    </sys_ui_application>
+</record_update>
